@@ -1,0 +1,14 @@
+{
+  "name": "c811b69a4002eab6",
+  "main": "c811b69a4002eab6@359.js",
+  "version": "359.0.0",
+  "homepage": "https://observablehq.com/d/c811b69a4002eab6",
+  "author": {
+    "name": "AlexP's Workspace",
+    "url": "https://observablehq.com/@alexp4-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
